@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # STATIC
 
 This directory contains your static files.
@@ -9,3 +10,6 @@ More information about the usage of this directory in the documentation:
 https://nuxtjs.org/guide/assets#static
 
 **This directory is not required, you can delete it if you don't want to use it.**
+=======
+# glutter.github.io
+>>>>>>> parent of 01a0f14... Update README.md
